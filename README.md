@@ -7,4 +7,4 @@ https://pcte.ch/pcte-ch-blog/141098-install-sharepoint-foundation-2013-on-window
 You can download wsssetup.dll to add it on SharepointInstaller Folder after extract.
 https://github.com/romain25/Sharepoint2013/blob/master/wsssetup.dll
 
-Because all link is die 404
+Because all link is die 404 for wsssetup_15-0-4709-1000_x64.zip
